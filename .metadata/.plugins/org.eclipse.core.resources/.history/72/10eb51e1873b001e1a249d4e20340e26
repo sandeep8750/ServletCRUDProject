@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>From</title>
+</head>
+<body>
+	<div class="container">
+		<h1>My From</h1>
+		<form action="RegisterServlet" method="post">
+			<table>
+			<tr>
+			<td>Enter your Name:</td> 
+			<td><input type="text" name="username" placeholder="Name"></td> 
+			</tr>
+			</table>
+		</form>
+	</div>
+</body>
+</html>

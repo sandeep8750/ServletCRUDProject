@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>From</title>
+<style>
+.container {
+	width: 30%;
+	border: 2px solid black;
+	margin: auto;
+	padding: 20px;
+	font-size: 20px;
+}
+
+#myform table tr td input {
+	font-size: 20px;
+	
+}
+</style>
+</head>
+<body>
+	<div class="container">
+		<h1>My From</h1>
+		<form id="myform" action="RegisterServlet" method="post">
+			<table>
+				<tr>
+					<td>Enter your Name:</td>
+					<td><input type="text" name="username" placeholder="Name"></td>
+				</tr>
+
+				<tr>
+					<td>Enter your Password:</td>
+					<td><input type="password" name="password"
+						placeholder="Password">
+				</tr>
+				<tr>
+					<td>Enter your Email:</td>
+					<td><input type="email" name="email" placeholder="Email">
+				</tr>
+
+				<tr>
+					<td>Select Gender:</td>
+					<td><input type="radio" name="gender" value="male">Male
+						&nbsp; &nbsp; <input type="radio" name="gender" value="female">Female</td>
+				</tr>
+
+				<tr>
+					<td>Select Your Course:</td>
+					<td><select>
+							<option value="Java">Java</option>
+							<option value="PhP">PHP</option>
+							<option value="Python">Python</option>
+							<option value="Kotlin">Kotlin</option>
+							<option value="C">C</option>
+							<option value="C++">C++</option>
+							<option value="C++">html/Css</option>
+					</select></td>
+				</tr>
+
+				<tr>
+					<td><input type="checkbox" value="cheaked" name="conditino"></td>
+					<td>Agree Term&Condition</td>
+				</tr>
+
+				<tr>
+					<td></td>
+					<td>
+						<button type="submit">Register</button>
+						<button type="reset" />Reset
+						</button>
+					</td>
+				</tr>
+			</table>
+		</form>
+	</div>
+</body>
+</html>

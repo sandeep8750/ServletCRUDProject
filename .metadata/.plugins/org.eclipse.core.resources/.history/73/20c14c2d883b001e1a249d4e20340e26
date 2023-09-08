@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>From</title>
+</head>
+<body>
+	<div class="container">
+		<h1>My From</h1>
+		<form action="RegisterServlet" method="post">
+			<table>
+				<tr>
+					<td>Enter your Name:</td>
+					<td><input type="text" name="username" placeholder="Name"></td>
+				</tr>
+
+				<tr>
+					<td>Enter your Password:</td>
+					<td><input type="password" name="password"
+						placeholder="Password">
+				</tr>
+				<tr>
+					<td>Enter your Email:</td>
+					<td><input type="email" name="email"
+						placeholder="Email">
+				</tr>
+				
+				<tr>
+					<td>Select Gender:</td>
+					<td><input type="radio" name="gender" value="male">Male &nbsp; &nbsp; <input type="radio" name="sgender" value="female">Female</td>
+				</tr>
+
+			</table>
+		</form>
+	</div>
+</body>
+</html>

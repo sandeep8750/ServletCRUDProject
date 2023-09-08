@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;CookieSessionTrackingApp&apos;&#x0D;&#x0A;- Original project: &apos;CookieSessionTrackingApp&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     form1.html&#x0D;&#x0A;     form2.html&#x0D;&#x0A;     form3.html" description="Delete elements" element1="src/main/webapp/form1.html" element2="src/main/webapp/form2.html" element3="src/main/webapp/form3.html" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="3" stamp="1689594211581" subPackages="false" version="1.0"/>
+</session>

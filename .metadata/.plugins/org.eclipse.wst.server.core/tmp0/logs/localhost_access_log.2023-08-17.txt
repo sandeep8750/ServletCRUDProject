@@ -1,0 +1,13 @@
+127.0.0.1 - - [17/Aug/2023:12:07:52 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Aug/2023:12:07:53 +0530] "GET /Servlet_Complete_Project/ HTTP/1.1" 404 780
+0:0:0:0:0:0:0:1 - - [17/Aug/2023:12:07:53 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [17/Aug/2023:12:08:23 +0530] "GET /Servlet_Complete_Project/layout.html HTTP/1.1" 404 791
+0:0:0:0:0:0:0:1 - - [17/Aug/2023:12:09:16 +0530] "GET /Servlet_Complete_Project/layout.html HTTP/1.1" 404 791
+0:0:0:0:0:0:0:1 - - [17/Aug/2023:12:10:47 +0530] "GET /Servlet_Complete_Project/rdsjfhvsdf.html HTTP/1.1" 404 795
+0:0:0:0:0:0:0:1 - - [17/Aug/2023:12:11:18 +0530] "GET /Servlet_Complete_Project/Header.html HTTP/1.1" 404 791
+0:0:0:0:0:0:0:1 - - [17/Aug/2023:12:14:52 +0530] "GET /Servlet_Complete_Project/ HTTP/1.1" 404 780
+0:0:0:0:0:0:0:1 - - [17/Aug/2023:12:15:05 +0530] "GET /Servlet_Complete_Project/index.html HTTP/1.1" 404 790
+0:0:0:0:0:0:0:1 - - [17/Aug/2023:12:16:36 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Aug/2023:12:17:23 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [17/Aug/2023:12:18:03 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Aug/2023:12:18:04 +0530] "GET /Servlet_Complete_Project/ HTTP/1.1" 404 780
